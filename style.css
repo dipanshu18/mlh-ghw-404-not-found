@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: grid;
+    align-items: center;
+    height: 100vh;
+    color: #fff!important;
+    background-color: rgb(38, 36, 36)!important;
+}
+
+h1 {
+    font-size: 3rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.hacker-img {   
+    padding-top: 3.5rem;
+}
+
+.notfoundtext { 
+    padding-top: 2rem;
+}
